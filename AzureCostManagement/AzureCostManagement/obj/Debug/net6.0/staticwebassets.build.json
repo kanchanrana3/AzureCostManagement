@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kabgfQkUJj0uCUMFBOK3DB7AaBlZFYwc+KPNdxMOdnQ=",
+  "Source": "AzureCostManagementQueryProject",
+  "BasePath": "_content/AzureCostManagementQueryProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
